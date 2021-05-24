@@ -1,5 +1,5 @@
 #!/usr/bin/guile -s
 !#
 
-(display "Hello, World!")
+(define thenameofthevariable "The Rakoo")
 (newline)
